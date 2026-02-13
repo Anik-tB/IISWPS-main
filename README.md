@@ -74,7 +74,7 @@ Real-time monitoring with live sensor data, factory floor visualization, and com
 - WebSocket connection status
 - Export buttons (CSV, JSON, Print)
 
-![Dashboard Screenshot](/home/anik/Documents/IISWPS-main/Screenshot/1.jpeg)
+![Dashboard Screenshot](./Screenshot/1.jpeg)
 
 ---
 
@@ -88,7 +88,7 @@ K-Means clustering visualization with interactive cluster management and mainten
 - Maintenance schedule table
 - Cluster statistics cards
 
-![Cluster Analysis Screenshot](/home/anik/Documents/IISWPS-main/Screenshot/2.jpeg)
+![Cluster Analysis Screenshot](./Screenshot/2.jpeg)
 
 ---
 
@@ -102,7 +102,7 @@ A* pathfinding with interactive grid editor and route comparison.
 - Route metrics (length, cost, risk)
 - Safety weight slider
 
-![Route Planner Screenshot](/home/anik/Documents/IISWPS-main/Screenshot/3.jpeg)
+![Route Planner Screenshot](./Screenshot/3.jpeg)
 
 ---
 
@@ -116,13 +116,13 @@ Hill climbing optimization with real-time safety score calculation and optimizat
 - Before/after comparison
 - Safety score gauge
 
-![Machine Optimizer Screenshot](/home/anik/Documents/IISWPS-main/Screenshot/4.jpeg)
+![Machine Optimizer Screenshot](./Screenshot/4.jpeg)
 
 ---
 
 ### Additional Features
 
-![Additional Features Screenshot](/home/anik/Documents/IISWPS-main/Screenshot/5.jpeg)
+![Additional Features Screenshot](./Screenshot/5.jpeg)
 
 ---
 
