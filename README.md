@@ -74,7 +74,7 @@ Real-time monitoring with live sensor data, factory floor visualization, and com
 - WebSocket connection status
 - Export buttons (CSV, JSON, Print)
 
-![Dashboard Screenshot](./Screenshot/%201.jpeg)
+![Dashboard Screenshot](./Screenshot%20/1.jpeg)
 
 ---
 
@@ -88,7 +88,7 @@ K-Means clustering visualization with interactive cluster management and mainten
 - Maintenance schedule table
 - Cluster statistics cards
 
-![Cluster Analysis Screenshot](./Screenshot/%202.jpeg)
+![Cluster Analysis Screenshot](./Screenshot%20/2.jpeg)
 
 ---
 
@@ -102,7 +102,7 @@ A* pathfinding with interactive grid editor and route comparison.
 - Route metrics (length, cost, risk)
 - Safety weight slider
 
-![Route Planner Screenshot](./Screenshot/%203.jpeg)
+![Route Planner Screenshot](./Screenshot%20/3.jpeg)
 
 ---
 
@@ -116,13 +116,13 @@ Hill climbing optimization with real-time safety score calculation and optimizat
 - Before/after comparison
 - Safety score gauge
 
-![Machine Optimizer Screenshot](./Screenshot/%204.jpeg)
+![Machine Optimizer Screenshot](./Screenshot%20/4.jpeg)
 
 ---
 
 ### Additional Features
 
-![Additional Features Screenshot](./Screenshot/%205.jpeg)
+![Additional Features Screenshot](./Screenshot%20/5.jpeg)
 
 ---
 
