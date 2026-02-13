@@ -20,6 +20,7 @@
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
+- [Screenshots](#-screenshots)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
@@ -28,7 +29,6 @@
 - [AI Algorithms](#-ai-algorithms)
 - [API Documentation](#-api-documentation)
 - [Database Schema](#-database-schema)
-- [Screenshots](#-screenshots)
 - [Configuration](#-configuration)
 - [Contributing](#-contributing)
 - [License](#-license)
@@ -49,6 +49,80 @@ The **Intelligent Industrial Safety & Workflow Prediction System (IISWPS)** is a
 - 📈 **Analytics**: Advanced trend analysis and statistical insights
 - 🚨 **Alert System**: Multi-level threshold-based alerting (info/warning/critical)
 - 🎨 **Modern UI**: Glassmorphism design with dark mode support
+
+---
+
+## 🎨 Screenshots
+
+### 📹 Video Demo
+
+Watch the full system demonstration on YouTube:
+
+[![IISWPS Video Demo](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/avzAtd8szAU)
+
+🎥 **[Click here to watch the video demo](https://youtu.be/avzAtd8szAU)**
+
+---
+
+### Dashboard
+Real-time monitoring with live sensor data, factory floor visualization, and comprehensive statistics.
+
+**Features Shown**:
+- 6 sensor cards with live metrics
+- Factory floor with sensor positions
+- Real-time charts (line, bar, area)
+- WebSocket connection status
+- Export buttons (CSV, JSON, Print)
+
+![Dashboard Screenshot](/home/anik/Documents/IISWPS-main/Screenshot/1.jpeg)
+
+---
+
+### Cluster Analysis
+K-Means clustering visualization with interactive cluster management and maintenance scheduling.
+
+**Features Shown**:
+- Cluster scatter plot (temperature vs. vibration)
+- Cluster comparison charts (bar, pie, radar)
+- Anomaly detection highlights
+- Maintenance schedule table
+- Cluster statistics cards
+
+![Cluster Analysis Screenshot](/home/anik/Documents/IISWPS-main/Screenshot/2.jpeg)
+
+---
+
+### Route Planner
+A* pathfinding with interactive grid editor and route comparison.
+
+**Features Shown**:
+- Interactive grid (click to toggle blocked/risk cells)
+- Start/goal position markers
+- Calculated path visualization
+- Route metrics (length, cost, risk)
+- Safety weight slider
+
+![Route Planner Screenshot](/home/anik/Documents/IISWPS-main/Screenshot/3.jpeg)
+
+---
+
+### Machine Optimizer
+Hill climbing optimization with real-time safety score calculation and optimization history.
+
+**Features Shown**:
+- Parameter input sliders
+- Constraint configuration
+- Optimization progress
+- Before/after comparison
+- Safety score gauge
+
+![Machine Optimizer Screenshot](/home/anik/Documents/IISWPS-main/Screenshot/4.jpeg)
+
+---
+
+### Additional Features
+
+![Additional Features Screenshot](/home/anik/Documents/IISWPS-main/Screenshot/5.jpeg)
 
 ---
 
@@ -862,77 +936,7 @@ CREATE TABLE escape_routes (
 
 ---
 
-## 🎨 Screenshots
 
-### 📹 Video Demo
-
-Watch the full system demonstration on YouTube:
-
-[![IISWPS Video Demo](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/avzAtd8szAU)
-
-🎥 **[Click here to watch the video demo](https://youtu.be/avzAtd8szAU)**
-
----
-
-### Dashboard
-Real-time monitoring with live sensor data, factory floor visualization, and comprehensive statistics.
-
-**Features Shown**:
-- 6 sensor cards with live metrics
-- Factory floor with sensor positions
-- Real-time charts (line, bar, area)
-- WebSocket connection status
-- Export buttons (CSV, JSON, Print)
-
-![Dashboard Screenshot](/home/anik/Documents/IISWPS-main/Screenshot/1.jpeg)
-
----
-
-### Cluster Analysis
-K-Means clustering visualization with interactive cluster management and maintenance scheduling.
-
-**Features Shown**:
-- Cluster scatter plot (temperature vs. vibration)
-- Cluster comparison charts (bar, pie, radar)
-- Anomaly detection highlights
-- Maintenance schedule table
-- Cluster statistics cards
-
-![Cluster Analysis Screenshot](/home/anik/Documents/IISWPS-main/Screenshot/2.jpeg)
-
----
-
-### Route Planner
-A* pathfinding with interactive grid editor and route comparison.
-
-**Features Shown**:
-- Interactive grid (click to toggle blocked/risk cells)
-- Start/goal position markers
-- Calculated path visualization
-- Route metrics (length, cost, risk)
-- Safety weight slider
-
-![Route Planner Screenshot](/home/anik/Documents/IISWPS-main/Screenshot/3.jpeg)
-
----
-
-### Machine Optimizer
-Hill climbing optimization with real-time safety score calculation and optimization history.
-
-**Features Shown**:
-- Parameter input sliders
-- Constraint configuration
-- Optimization progress
-- Before/after comparison
-- Safety score gauge
-
-![Machine Optimizer Screenshot](/home/anik/Documents/IISWPS-main/Screenshot/4.jpeg)
-
----
-
-### Additional Features
-
-![Additional Features Screenshot](/home/anik/Documents/IISWPS-main/Screenshot/5.jpeg)
 
 ---
 
